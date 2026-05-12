@@ -5,3 +5,6 @@
 
 <img width="101" height="57" alt="usahana9" src="https://github.com/user-attachments/assets/04a67cfc-94a5-4375-a424-b4e8bd2925e4" />
 <img width="99" height="56" alt="bows" src="https://github.com/user-attachments/assets/7d4108c3-2971-419d-b191-6d6ea40e5246" />
+<img width="99" height="56" alt="pantone_template_by_king_lulu_deer-dc6iwb7" src="https://github.com/user-attachments/assets/6125e09a-c3e3-4dd2-aaf0-0c32365cfaf2" />
+<img width="99" height="55" alt="i_love_pastel_colours___stamp__by_aphalyte_db1hrh7-fullview" src="https://github.com/user-attachments/assets/6cc14af1-9d9b-4a7d-a588-222ce20bd430" />
+<img width="97" height="57" alt="tumblr_inline_p1crmzCHO71uli46t_500" src="https://github.com/user-attachments/assets/efb38dc6-41b6-4626-9378-ea2fd09ef1c2" />
