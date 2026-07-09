@@ -1,9 +1,6 @@
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ip6fmm2w4v6xgt6zmozh4qtjom&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=698bab&bar_color_cover=false)
 
-<img width="80" height="15" alt="artworkbadge7" src="https://github.com/user-attachments/assets/9333b9d0-29a6-4e86-8e2d-b21c2c7c79ad" />
-
-
-![327a8025d5cdf9e5752cad37d5ad8933](https://github.com/user-attachments/assets/c420366a-1e6c-411a-a7f2-00803c7792c8)
+[![327a8025d5cdf9e5752cad37d5ad8933](https://github.com/user-attachments/assets/c420366a-1e6c-411a-a7f2-00803c7792c8)](https://gifs.alphacoders.com/gifs/view/34822)
 
 <img width="101" height="57" alt="usahana9" src="https://github.com/user-attachments/assets/04a67cfc-94a5-4375-a424-b4e8bd2925e4" />
 <img width="99" height="56" alt="pantone_template_by_king_lulu_deer-dc6iwb7" src="https://github.com/user-attachments/assets/6125e09a-c3e3-4dd2-aaf0-0c32365cfaf2" />
