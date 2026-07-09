@@ -1,12 +1,11 @@
+https://cdn.discordapp.com/attachments/1503016086654681102/1524091241371799662/IMG_0067.gif?ex=6a507654&is=6a4f24d4&hm=3282754daa99c624a100618ebe3fc9fbcc00ad4ca5104f67a8c7199be963f4b3&
+
+
 <img width="500" height="281" alt="34822" src="https://github.com/user-attachments/assets/ed0682ca-795b-45b4-87e2-cfb38c58f842" />
 
 
 
    
-
-
-
-<img width="928" height="97" alt="image" src="https://github.com/user-attachments/assets/ccd0bcf8-66f8-4153-9656-79ca88f40bf2" />
 
 
 
