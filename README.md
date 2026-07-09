@@ -1,6 +1,4 @@
 
-<img width="1280" height="126" alt="image-2024-05-23-224600749" src="https://github.com/user-attachments/assets/4ae659f0-6ec1-41fa-89f3-61ffc72610f5" />
-
 
 
 
