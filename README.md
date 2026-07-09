@@ -5,7 +5,5 @@
 <img width="500" height="281" alt="34822" src="https://github.com/user-attachments/assets/afdd4f89-f3a0-46ae-b89d-c449041a6ece" />
 
 
-
-<img width="400" height="350" alt="tumblr_nltpuyggp91r8zpzoo1_r1_500" src="https://github.com/user-attachments/assets/10d78f6c-cd9c-40f5-a494-ba62613101e9" />
 <img width="88" height="31" alt="aca42b8abcaac0db6770a5d471ae669c1347fa35" src="https://github.com/user-attachments/assets/5848af44-b712-4795-ac4a-a7fafeed894f" />
 
